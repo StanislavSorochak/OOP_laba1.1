@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+     Создается библиотека C:\Users\Пользователь\source\repos\oop_laba1.1\Debug\UnitTest1.lib и объект C:\Users\Пользователь\source\repos\oop_laba1.1\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __thiscall Money::Init(int,int)" (?Init@Money@@QAE_NHH@Z) в функции "public: void __thiscall UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QAEXXZ).
+C:\Users\Пользователь\source\repos\oop_laba1.1\Debug\UnitTest1.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
