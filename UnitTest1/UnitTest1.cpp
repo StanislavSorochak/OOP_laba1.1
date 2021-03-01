@@ -1,6 +1,6 @@
 ﻿#include "pch.h"
 #include "CppUnitTest.h"
-#include "../oop_laba1.1/Money.h"
+#include "../oop_laba1.1/Money.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
